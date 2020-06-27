@@ -15,4 +15,4 @@ For fetching the countries I used the API from https://restcountries.eu website.
 
 
 
-Hope it will help you understand, How to make API call in SwiftUI
+Hope it will help you to understand, How to make API call in SwiftUI
